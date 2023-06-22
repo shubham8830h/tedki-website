@@ -1,0 +1,165 @@
+header.hero {
+  position: relative;
+  text-align: center;
+}
+
+header .bg-home-image {
+  width: 100%;
+  height: 100%;
+}
+
+header .col-md-6 {
+  z-index: 1;
+  position: relative;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+header .hero-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+header .hero-description {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+header .btn-primary {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+header .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+.contact-form {
+  background-color: #382828;
+  padding: 50px 0;
+  color: #fff;
+}
+
+.contact-form .com-heading {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-top: 20px !important;
+}
+.contact-form input[type="text"],
+.contact-form input[type="tel"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  transition: border-color 0.3s ease-in-out;
+}
+
+/* info */
+
+.bg-lightgrey {
+  background-color: #f8f8f8;
+}
+
+.container-fluid {
+  padding: 50px 0;
+}
+
+.digital-evolution {
+  margin-bottom: 50px;
+}
+
+.com-heading {
+  font-size: 32px;
+}
+
+.text-black {
+  color: #000;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-weight-normal {
+  font-weight: normal;
+}
+
+.section-title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.read-more {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #2d186c;
+  padding: 40px 0;
+  color: #fff;
+  text-align: center;
+}
+
+footer .section-title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.fa-icon {
+  color: #fff;
+  margin-left: 20px;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer .footer-cover {
+  padding: 40px 0;
+}
+
+footer .footer-menu {
+  margin-bottom: 10px;
+}
+
+footer .footer-menu-items li {
+  margin-bottom: 3px;
+   list-style:none
+}
+
+footer .copytight {
+  background-color: #2d186c;
+  padding: 3px 0;
+  text-align: center;
+  color: #fff;
+}
